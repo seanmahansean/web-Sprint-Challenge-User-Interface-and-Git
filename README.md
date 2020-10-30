@@ -38,6 +38,8 @@ Semantic Html is the tags that are used for the way that it communicates to a co
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
+Block has infinite width while inline doesn't, block puts new tag in a new line while inline would put it right next to the last tag.
+
 3. What are the 4 areas of the box model?
 
 Content, Padding, Border, and Margin in that order.
