@@ -175,9 +175,10 @@ nav a {
 }
 
 .about {
-  margin-bottom: 20px;
+  margin-bottom: 4%;
   border-bottom: 1px dashed black;
-  padding-bottom: 20px;
+  padding: 0 2.5%;
+  padding-bottom: 2%;
 }
 
 .main {
@@ -198,8 +199,22 @@ nav a {
   padding-top: 2%;
 }
 
-.main div p {
-  padding-bottom: 2%;
+.text {
+  padding-bottom: 4%;
+}
+
+.button {
+  padding: 0.5% 2%;
+  border: 2px solid black;
+  border-radius: 20%;
+  margin-right: 70%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.work {
+  margin: 0 2.5% auto;
+  margin-bottom: 4%;
 }
 
 footer {
