@@ -161,13 +161,17 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  height: 15vh;
+  height: 10vh;
   margin-top: 2.5%;
 }
 
 nav a {
   text-decoration: none;
   color: black;
+}
+
+.banner {
+  height: 25vh;
 }
 
 .top-content {

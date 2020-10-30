@@ -161,13 +161,45 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  height: 15vh;
+  height: 10vh;
   margin-top: 2.5%;
 }
 
 nav a {
   text-decoration: none;
   color: black;
+}
+
+.banner {
+  height: 25vh;
+}
+
+.about {
+  margin-bottom: 20px;
+  border-bottom: 1px dashed black;
+  padding-bottom: 20px;
+}
+
+.main {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.main div {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 45%;
+  margin: 0 2.5% auto;
+  border-bottom: 1px dashed black;
+  margin-bottom: 6%;
+}
+
+.main div h2 {
+  padding-top: 2%;
+}
+
+.main div p {
+  padding-bottom: 2%;
 }
 
 footer {

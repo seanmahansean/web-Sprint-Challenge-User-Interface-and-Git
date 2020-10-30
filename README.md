@@ -40,9 +40,15 @@ Semantic Html is the tags that are used for the way that it communicates to a co
 
 3. What are the 4 areas of the box model?
 
+Content, Padding, Border, and Margin in that order.
+
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
 
+Cross Axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git makes it so several people can work on a project at the same time in a way that conflicting edits don't break the project. This is so because your edits to the original version are done through branches, and it checks for conflicts when you merge your branch.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
